@@ -13,6 +13,13 @@
 - Join Py-Contributors community on Discord:- [Discord Invite link](https://discord.gg/3MbbNt97)
 - Check upcoming [event/update](https://py-contributors.github.io/updates/index.html)
 
+
+## Why should you join this community
+
+1. Accelerate your learning by contributing to open-source projects.
+2. Learn from each other experince and meet link-minded people
+
+
 ## Our Standards
 
 Examples of behavior that contributes to creating a positive environment
